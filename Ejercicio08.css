@@ -1,0 +1,16 @@
+.titulo {
+    font-size: 30px;
+    color: #725
+}
+.cuerpo_texto {
+    margin: 20px;
+    padding: 30px;
+    max-width: 600px;
+    border: #359 solid 3px;
+}
+.elemento {
+    background-color: #339;
+    padding: 15px;
+    max-width: 200px;
+    margin: 5px;
+}
